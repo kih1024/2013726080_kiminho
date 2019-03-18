@@ -1,25 +1,59 @@
 .presentation {
 	background-color: bisque;
-	color:black;
+	color: black;
 	font-size: 20px;
 	width: 900px;
 	margin: auto;
+	border-style: double;
 	font-family: sans-serif;
 }
-
-center{
-	color:black;
+ca
+center {
+	color: black;
 	font-size: 45px;
 }
 
-.subject{
-	color:darkred;
-	font-family:cursive;
+.subject {
+	color: darkred;
+	font-family: cursive;
 	font-size: 25px;
 }
-.end{
-	font-size:40px;
+
+.end {
+	font-size: 40px;
 }
-.picture{
+
+.picture {
 	color: red;
+}
+
+th {
+	width: 115px;
+}
+
+table,
+th,
+td {
+	border: 0.5px solid #bcbcbc;
+}
+.week {
+	background-color:blanchedalmond;
+}
+.k {
+	background-color:bisque;
+}
+.com {
+	background-color:aqua;
+}
+.w {
+	background-color:cadetblue;
+}
+.m {
+	background-color:brown;
+}
+.in {
+	background-color:deeppink;
+}
+.so {
+	background-color:cornflowerblue;
 }
