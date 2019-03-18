@@ -1,0 +1,22 @@
+.presentation {
+	background-color: bisque;
+	color:black;
+	font-size: 20px;
+	width: 900px;
+	margin: auto;
+	font-family: sans-serif;
+}
+
+center{
+	color:black;
+	font-size: 45px;
+}
+
+.subject{
+	color:darkred;
+	font-family:cursive;
+	font-size: 25px;
+}
+.end{
+	font-size:40px;
+}
